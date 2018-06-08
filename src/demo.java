@@ -8,6 +8,7 @@ public class demo {
 		System.out.println("20182018");
 		System.out.println("firstfirst");
 		System.out.println("second");
+		System.out.println("four");
 
 	}
 
